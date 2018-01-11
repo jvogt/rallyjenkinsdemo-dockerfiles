@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<scriptApproval plugin="script-security@1.39">
+  <approvedScriptHashes/>
+  <approvedSignatures>
+    <string>new groovy.util.XmlSlurper</string>
+    <string>method groovy.lang.GroovyObject getProperty java.lang.String</string>
+    <string>method groovy.util.XmlSlurper parseText java.lang.String</string>
+    <string>method org.apache.maven.model.Model getVersion</string>
+    <string>new groovy.util.XmlSlurper</string>
+  </approvedSignatures>
+  <aclApprovedSignatures/>
+  <approvedClasspathEntries/>
+  <pendingScripts/>
+  <pendingSignatures/>
+  <pendingClasspathEntries/>
+</scriptApproval>
